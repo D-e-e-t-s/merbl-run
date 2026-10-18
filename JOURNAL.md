@@ -57,4 +57,4 @@ This part took me around 2 hours because I had to experiment a LOT with this unt
 
 ![Screenshot 2026-10-18 001156](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/xuHXGjbfIPz0CnJ1Vq2xr27VriNQEoOI/ff8ba998ae7bd4d64d2fdd292abcf676ac9394284cc60b399f07cfcaf20d0be9.jpg)
 
-For my next session, I want to work on making it so when the marble goes through that drop it won't go off course so I want to maybe add some borders to the bottom track a bit more so it'll stay inside the track.
+For my next session, I want to work on making it so when the marble goes through that drop it won't go off course so I want to maybe add some borders to the bottom track a bit more so it'll stay inside the track. This may seem like a lot done in a day but I had to lock in because I knew I only had like a day left so I'm hoping to finish early tomorrow morning in around ~4-5 hours because I might have to manually add supports.
