@@ -12,7 +12,7 @@ Then finally I added some supports and I was done!
 | Item | Qty | Supplier | Cost/item | Total Cost | Link |
 | --- | :---: | --- | ---: | ---: | --- |
 | The whole course (Marble is included in the print btw) | 1 | Printing-Legion | $11.51 | $11.51 | [Slack Link](https://hackclub.slack.com/archives/D0CL4H14HV1/p1795463620891989) |
-| Estimated total shipping | 1 | | $9.12 | $9.12 | |
+| Estimated total shipping | 1 | || $9.12 | |
 
 The edittable onshape link:
 
