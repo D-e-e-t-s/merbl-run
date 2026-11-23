@@ -9,9 +9,10 @@ I added some weird connecting thing to combine both these courses together then 
 Then i added a funnel which was fun!<img width="535" height="362" alt="Screenshot 2026-10-18 154953" src="https://github.com/user-attachments/assets/41ca95b3-5107-4135-b9a9-08faebad9613" />
 Then finally I added some supports and I was done!
 <img width="690" height="533" alt="Screenshot 2026-10-18 173720" src="https://github.com/user-attachments/assets/abba13f6-b054-493b-930f-e56151f00ebd" />
-| Item | Qty	| Supplier | 	Cost/item	| Total Cost	| link | 
-| The whole course (Marble is included in the print btw)	| 1	| Printing-Legion	| $11.51 | 	$11.51 | https://hackclub.slack.com/archives/D0CL4H14HV1/p1795463620891989 |
-| Estimated total shipping |	1		|	$9.12	 |
+| Item | Qty | Supplier | Cost/item | Total Cost | Link |
+| --- | :---: | --- | ---: | ---: | --- |
+| The whole course (Marble is included in the print btw) | 1 | Printing-Legion | $11.51 | $11.51 | [Slack Link](https://hackclub.slack.com/archives/D0CL4H14HV1/p1795463620891989) |
+| Estimated total shipping | 1 | | $9.12 | $9.12 | |
 
 The edittable onshape link:
 
